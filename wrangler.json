@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "ksenaris",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "23f87840-3b8e-44ad-b800-a01742c85da8",
+			"database_name": "amaris"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
